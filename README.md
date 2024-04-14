@@ -15,6 +15,8 @@ Browser (Chrome, Opera, Firefox, OperaGX, Edge, Brave, Yandex) - Passwords, Cook
 
 Screenshot(s)
 
+Grabs Discord Nitro Gifts|Boosts|Tokens
+
 Telegram Session stealer
 
 FTP stealer (FileZilla)
